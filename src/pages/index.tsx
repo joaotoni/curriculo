@@ -88,7 +88,7 @@ export default function Home() {
             <h2 className="text-2xl font-semibold text-primary">💬 Vamos Conversar?</h2>
             <p className="text-gray-300 mt-2">Fale comigo diretamente pelo WhatsApp ou pelo e-mail.</p>
 
-            <div className="mt-4 flex flex-col md:flex-row justify-center gap-4">
+            <div className="mt-4 flex flex-col md:flex-row justify-center items-center gap-4">
               <WhatsAppButton
                 phoneNumber="+5562998671605"
                 message="Olá, vi seu site e gostaria de conversar!"
