@@ -12,11 +12,11 @@ export interface Experiencia {
         empresa: "BSafe",
         periodo: "Mar/2024 – Atual",
         descricao: [
-          "Desenvolvi novas funcionalidades e melhorias no sistema web e mobile para um sistema SaaS de anúncios privados.",
-          "Utilizei React e Next para alcançar alta performance no sistema web, garantindo responsividade e fluidez na experiência do usuário.",
-          "Trabalhei na API desenvolvida em Node, otimizando consultas e cadastros.",
-          "Contribuí para a redução de tempo de resposta das requisições da API ao otimizar a comunicação entre back-end e front-end.",
-          "Participei de reuniões de planejamento e definição de features, utilizando metodologias ágeis como Kanban.",
+          "Desenvolvo novas funcionalidades e melhorias no sistema web e mobile para um sistema SaaS de anúncios privados.",
+          "Utilizo React e Next para alcançar alta performance no sistema web, garantindo responsividade e fluidez na experiência do usuário.",
+          "Trabalho na API desenvolvida em Node, otimizando consultas e cadastros.",
+          "Contribuo para a redução de tempo de resposta das requisições da API ao otimizar a comunicação entre back-end e front-end.",
+          "Participo de reuniões de planejamento e definição de features, utilizando metodologias ágeis como Kanban.",
         ],
         tecnologias: ["React", "Next", "Javascript", "Typescript", "React Native", "Node", "Nest", "BitBucket", "Jira"]
     },

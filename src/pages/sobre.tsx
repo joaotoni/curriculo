@@ -31,7 +31,7 @@ export default function AboutMe() {
               className="w-60 h-60 rounded-full border-4 border-primary shadow-lg"
             />
             <p className="text-gray-300 text-lg max-w-xl">
-              Olá! Meu nome é <span className="font-semibold text-white">João Antonio M. Taveira</span>, sou um desenvolvedor de 21 anos com experiência em projetos desde os 18.
+              Olá! Meu nome é <span className="font-semibold text-white">João Antonio M. Taveira</span>, sou um desenvolvedor com experiência de 3 anos.
               Apaixonado por tecnologia e inovação, busco sempre dar o meu melhor em cada desafio.
               Além da minha dedicação ao código, sou comunicativo e extrovertido, o que me permite trabalhar bem em equipe e transformar ideias em soluções eficientes. 🚀
             </p>
